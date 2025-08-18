@@ -1,5 +1,4 @@
 <\> Project: LP Project Infinity
-<\> Email: phannhatbaolong1701@gmail.com
 
 - LP Project Infinity được xây dựng như một hệ sinh thái chuyên nghiệp, nơi cung cấp và quản lý các module VIP một cách an toàn và thuận tiện.
 Mọi module đều được phát triển và tối ưu trong hệ sinh thái LP Project Infinity.
