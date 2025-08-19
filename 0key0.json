@@ -2526,5 +2526,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "20"
+  },
+  {
+  "key": "thanhtunggay",
+  "android_id": "f2d37ec143e5f8a2",
+  "serial": "R58N30R9C1L",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "70"
   }
 ]
