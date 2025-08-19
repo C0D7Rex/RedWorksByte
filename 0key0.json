@@ -2550,5 +2550,13 @@
   "android_version": "11",
   "manufacturer": "samsung",
   "price": "140"
+  },
+  {
+  "key": "ducgayngu",
+  "android_id": "23cc7751044432b2",
+  "serial": "R9JR30GC4PJ",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "280"
   }
 ]
