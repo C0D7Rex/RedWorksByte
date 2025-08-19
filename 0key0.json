@@ -14,7 +14,7 @@
   "android_version": "10",
   "manufacturer": "samsung",
   "price": "10"
-},
+  },
   {
   "key": "admin",
   "android_id": "878b05cef744848d",
@@ -2069,7 +2069,7 @@
   "serial": "R5CTA1FNWML",
   "android_version": "15",
   "manufacturer": "samsung",
-  "price": "210"
+  "price": "280"
   },
   {
   "key": "ThienStyle",
@@ -2493,6 +2493,38 @@
   "serial": "R58N62Q4XRN",
   "android_version": "12",
   "manufacturer": "samsung",
+  "price": "20"
+  },
+  {
+  "key": "ngtanh",
+  "android_id": "ba3bfab85ddf8597",
+  "serial": "377ee804",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "70"
+  },
+  {
+  "key": "holyyhod",
+  "android_id": "b915e35ef0b75af1",
+  "serial": "UCGUCM7P5XKFGM4X",
+  "android_version": "15",
+  "manufacturer": "realme",
+  "price": "20"
+  },
+  {
+  "key": "trinhdung",
+  "android_id": "d34f80cb85f03c27",
+  "serial": "10AD3T174P003YS",
+  "android_version": "13",
+  "manufacturer": "vivo",
+  "price": "70"
+  },
+  {
+  "key": "duygayabc",
+  "android_id": "97a3968fbcd54b27",
+  "serial": "V4JVAUP7LJQWKRZ9",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
   "price": "20"
   }
 ]
