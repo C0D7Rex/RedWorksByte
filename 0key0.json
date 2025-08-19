@@ -2546,7 +2546,7 @@
   {
   "key": "haidanggay",
   "android_id": "196f229ae7d55e78",
-  "serial": "R59M403H1RR",
+  {"serial": "R59M403H1RR",
   "android_version": "11",
   "manufacturer": "samsung",
   "price": "140"
@@ -2557,6 +2557,30 @@
   "serial": "R9JR30GC4PJ",
   "android_version": "12",
   "manufacturer": "samsung",
+  "price": "280"
+  },
+  {
+  "key": "giauyencte",
+  "android_id": "b398388dd637fbbf",
+  "serial": "RWJR9LROZXHYKFCU",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "280"
+  },
+  {
+  "key": "minhtridz",
+  "android_id": "47c8bdc32d52019",
+  "serial": "zd6tq4wwtwaqiryd",
+  "android_version": "14",
+  "manufacturer": "Xiaomi",
+  "price": "280"
+  },
+  {
+  "key": "minhtridz",
+  "android_id": "47c8bdc32d52019",
+  "serial": "zd6tq4wwtwaqiryd",
+  "android_version": "14",
+  "manufacturer": "Xiaomi",
   "price": "280"
   }
 ]
