@@ -2534,5 +2534,21 @@
   "android_version": "13",
   "manufacturer": "samsung",
   "price": "70"
+  },
+  {
+  "key": "minhchiengay",
+  "android_id": "81750021534c9178",
+  "serial": "dd014407",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "70"
+  },
+  {
+  "key": "haidanggay",
+  "android_id": "196f229ae7d55e78",
+  "serial": "R59M403H1RR",
+  "android_version": "11",
+  "manufacturer": "samsung",
+  "price": "140"
   }
 ]
