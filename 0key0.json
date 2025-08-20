@@ -2576,10 +2576,10 @@
   "price": "280"
   },
   {
-  "key": "minhtridz",
-  "android_id": "47c8bdc32d52019",
-  "serial": "zd6tq4wwtwaqiryd",
-  "android_version": "14",
+  "key": "bangiuchau",
+  "android_id": "140b7ce11a26444",
+  "serial": "qki7fumrcmq4ugso",
+  "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "280"
   },
@@ -2590,5 +2590,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "280"
+  },
+  {
+  "key": "vanduongdz",
+  "android_id": "1d59f2ad945d87e3",
+  "serial": "831049d7",
+  "android_version": "14",
+  "manufacturer": "OPPO",
+  "price": "140"
   }
 ]
