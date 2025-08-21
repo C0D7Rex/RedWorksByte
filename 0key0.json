@@ -2614,5 +2614,13 @@
   "android_version": "15",
   "manufacturer": "samsung",
   "price": "20"
+  },
+  {
+  "key": "thuthugay",
+  "android_id": "18c916496f69c4be",
+  "serial": "R58R927RBSP",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "70"
   }
 ]
