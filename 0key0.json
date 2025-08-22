@@ -2638,5 +2638,13 @@
   "android_version": "12",
   "manufacturer": "samsung",
   "price": "70"
+  },
+  {
+  "key": "trungmegay",
+  "android_id": "994c178dbde6adcd",
+  "serial": "R58R90CLH5E",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "280"
   }
 ]
