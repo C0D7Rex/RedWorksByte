@@ -2646,5 +2646,13 @@
   "android_version": "12",
   "manufacturer": "samsung",
   "price": "280"
+  },
+  {
+  "key": "lmtcotrinhk",
+  "android_id": "7b04794b43a47cb7",
+  "serial": "a6e81fc5",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "140"
   }
 ]
