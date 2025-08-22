@@ -2654,5 +2654,13 @@
   "android_version": "13",
   "manufacturer": "Xiaomi",
   "price": "140"
+  },
+  {
+  "key": "truongsexngu",
+  "android_id": "1b5af34794633e7e",
+  "serial": "RFCY40N7VLF",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "280"
   }
 ]
