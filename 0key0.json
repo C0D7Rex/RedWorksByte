@@ -2670,5 +2670,21 @@
   "android_version": "12",
   "manufacturer": "OPPO",
   "price": "70"
+  },
+  {
+  "key": "vanhoabcd",
+  "android_id": "98949512585243dd",
+  "serial": "R58R242XLTT",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
+  {
+  "key": "longthanhbagay",
+  "android_id": "a8a07b96f6f6e5e4",
+  "serial": "c6skkjtw89pzdmzx",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "210"
   }
 ]
