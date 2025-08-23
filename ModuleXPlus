@@ -1,0 +1,82 @@
+ui_printf() {
+refresh_rate=$(dumpsys SurfaceFlinger | grep "refresh-rate" | awk '{printf("%d ", $3)}')
+NOW=$(date)
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "©Copyright By Long Phan
+Date: $NOW"
+sleep 5
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+Hệ thống đang khởi động..."
+sleep 3
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+>> Checking hardware..."
+sleep 2
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+>> Checking hardware...OK"
+sleep 2
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+>> Mounting storage..."
+sleep 2
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+>> Mounting storage...OK"
+sleep 2
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+>> Loading drivers..."
+sleep 2
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+>> Loading drivers...OK"
+sleep 2
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+Chuẩn Bị Cài Chức Năng✔"
+sleep 2
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+FixRung⚡: ON"
+sleep 2
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+Aimlock🚀: ON"
+sleep 2
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+FixLag🔧: ON"
+sleep 2
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+Đầm Tâm🔥: ON"
+sleep 2
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "[ SYSTEM STATUS ]
+Bám Đầu🧊: ON"
+sleep 2
+cmd notification post -S bigtext -t 'ModuleXPlus' 'Tag' "All Module Successful✔"
+}
+tweaks() {
+settings put system peak_refresh_rate "$refresh_rate"
+settings put system max_refresh_rate "$refresh_rate"
+settings put system min_refresh_rate "$refresh_rate"
+settings put system miui_refresh_rate "$refresh_rate"
+settings put system user_refresh_rate "$refresh_rate"
+
+secure=(
+        "long_press_timeout 500"
+        "multi_press_timeout 450"
+    )
+    for commands in "${secure[@]}"; do
+    IFS=' ' read -r name value <<< "$commands"
+    settings put secure "$name" "$value"
+done
+setprop debug.egl.swapinterval 0
+setprop debug.gr.swapinterval 0
+setprop debug.sf.swapinterval 0
+setprop debug.hwui.use_hint_manager true
+setprop debug.sf.enable_hwc_vds 1
+setporp debug.sf.use_frame_rate_priority 1
+
+packages=$(cmd package list packages | cut -d ':' -f2 | grep -Ei 'freefire|pubg' | sort -u)
+for pkg in $packages; do
+  cmd package compile -m verify -f "$pkg"
+  cmd package compile -m assume-verified -f "$pkg"
+  cmd package compile -m everything -f "$pkg"
+  cmd package compile -m speed-profile -f "$pkg"
+done
+}
+tweaks > /dev/null 2>&1
+echo " ©Copyright By LongPhan!!"
+echo "   Lướt Lên Thông Báo i "
+sleep 0.5
+ui_printf > /dev/null 2>&1
