@@ -2662,5 +2662,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "70"
+  },
+  {
+  "key": "baonamngugay",
+  "android_id": "aa16b8b6f142fa16",
+  "serial": "XKHYHQTCGAKFLNAY",
+  "android_version": "12",
+  "manufacturer": "OPPO",
+  "price": "70"
   }
 ]
