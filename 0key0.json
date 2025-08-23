@@ -2686,5 +2686,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "210"
+  },
+  {
+  "key": "hunggaysex",
+  "android_id": "4a07bcbd24e902e8",
+  "serial": "10HDCR043K003G2",
+  "android_version": "15",
+  "manufacturer": "vivo",
+  "price": "20"
   }
 ]
