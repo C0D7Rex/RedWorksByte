@@ -2702,5 +2702,13 @@
   "android_version": "11",
   "manufacturer": "vivo",
   "price": "20"
+  },
+  {
+  "key": "tranphubao",
+  "android_id": "af30843c7b3584f1",
+  "serial": "9521d046",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "20"
   }
 ]
