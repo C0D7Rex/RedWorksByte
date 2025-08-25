@@ -2726,5 +2726,21 @@
   "android_version": "13",
   "manufacturer": "realme",
   "price": "20"
+  },
+  {
+  "key": "haidangs22ultra",
+  "android_id": "a5eb246703e27237",
+  "serial": "R5CT30WHYNF",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "280"
+  },
+  {
+  "key": "hoanglongdzctgay",
+  "android_id": "5bb567f002e80a34",
+  "serial": "R58N62Q4XRN",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "70"
   }
 ]
