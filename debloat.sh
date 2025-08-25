@@ -289,6 +289,6 @@ pm uninstall --user 0 com.xiaomi.xmsf
 pm uninstall --user 0 com.xiaomi.xmsfkeeper
 pm uninstall --user 0 com.zhiliaoapp.musically
 pm uninstall --user 0 org.mipay.android.manager
-} > /dev/null 2>&1
+}
 debloat
 echo " Debloat HyperOs Success!!!"
