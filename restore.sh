@@ -1,294 +1,294 @@
 debloat() {
-pm install-existing cn.wps.xiaomi.abroad.lite
-pm install-existing com.alibaba.aliexpresshd
-pm install-existing com.amazon.appmanager
-pm install-existing com.amazon.fv
-pm install-existing com.amazon.kindle
-pm install-existing com.amazon.mShop.android
-pm install-existing com.amazon.mShop.android.shopping
-pm install-existing com.amazon.mp3
-pm install-existing com.amazon.venezia
-pm install-existing com.android.backupconfirm
-pm install-existing com.android.bips
-pm install-existing com.android.bookmarkprovider
-pm install-existing com.android.browser
-pm install-existing com.android.dreams.basic
-pm install-existing com.android.dreams.phototable
-pm install-existing com.android.egg
-pm install-existing com.android.email
-pm install-existing com.android.exchange
-pm install-existing com.android.hotwordenrollment.okgoogle
-pm install-existing com.android.packageinstaller
-pm install-existing com.android.printspooler
-pm install-existing com.android.providers.partnerbookmarks
-pm install-existing com.android.providers.userdictionary
-pm install-existing com.android.sharedstoragebackup
-pm install-existing com.android.stk
-pm install-existing com.android.wallpaper.livepicker
-pm install-existing com.android.wallpaperbackup
-pm install-existing com.android.wallpapercropper
-pm install-existing com.audible.application
-pm install-existing com.block.puzzle.game.hippo.mi
-pm install-existing com.blurb.checkout
-pm install-existing com.booking
-pm install-existing com.cequint.ecid
-pm install-existing com.cnn.mobile.android.phone.edgepanel
-pm install-existing com.crazy.juicer.xm
-pm install-existing com.diotek.sec.lookup.dictionary
-pm install-existing com.dsi.ant.plugins.antplus
-pm install-existing com.dsi.ant.sample.acquirechannels
-pm install-existing com.dsi.ant.server
-pm install-existing com.dsi.ant.service.socket
-pm install-existing com.duokan.phone.remotecontroller
-pm install-existing com.enhance.gameservice
-pm install-existing com.facebook.appmanager
-pm install-existing com.facebook.katana
-pm install-existing com.facebook.services
-pm install-existing com.facebook.system
-pm install-existing com.flipboard.app
-pm install-existing com.flipboard.boxer.app
-pm install-existing com.google.android.apps.books
-pm install-existing com.google.android.apps.docs
-pm install-existing com.google.android.apps.magazines
-pm install-existing com.google.android.apps.plus
-pm install-existing com.google.android.apps.subscriptions.red
-pm install-existing com.google.android.apps.tachyon
-pm install-existing com.google.android.apps.youtube.music
-pm install-existing com.google.android.gm
-pm install-existing com.google.android.googlequicksearchbox
-pm install-existing com.google.android.marvin.talkback
-pm install-existing com.google.android.music
-pm install-existing com.google.android.printservice.recommendation
-pm install-existing com.google.android.projection.gearhead
-pm install-existing com.google.android.talk
-pm install-existing com.google.android.tts
-pm install-existing com.google.android.videos
-pm install-existing com.google.android.youtube
-pm install-existing com.google.ar.core
-pm install-existing com.google.vr.vrcore
-pm install-existing com.gotv.nflgamecenter.us.lite
-pm install-existing com.hancom.office.editor.hidden
-pm install-existing com.imdb.mobile
-pm install-existing com.infraware.polarisoffice5
-pm install-existing com.jewelsblast.ivygames.Adventure.free
-pm install-existing com.linkedin.android
-pm install-existing com.logame.eliminateintruder3d
-pm install-existing com.mi.android.globalFileexplorer
-pm install-existing com.mi.android.globalpersonalassistant
-pm install-existing com.mi.global.pocobbs
-pm install-existing com.mi.global.pocostore
-pm install-existing com.mi.globalbrowser
-pm install-existing com.mi.globalminusscreen
-pm install-existing com.micredit.in
-pm install-existing com.microsoft.appmanager
-pm install-existing com.microsoft.office.excel
-pm install-existing com.microsoft.office.officehubrow
-pm install-existing com.microsoft.office.outlook
-pm install-existing com.microsoft.office.powerpoint
-pm install-existing com.microsoft.office.word
-pm install-existing com.microsoft.skydrive
-pm install-existing com.milink.service
-pm install-existing com.mintgames.triplecrush.tile.fun
-pm install-existing com.mintgames.wordtrip
-pm install-existing com.mipay.wallet.id
-pm install-existing com.mipay.wallet.in
-pm install-existing com.miui.analytics
-pm install-existing com.miui.android.fashiongallery
-pm install-existing com.miui.audioeffect
-pm install-existing com.miui.audiomonitor
-pm install-existing com.miui.bugreport
-pm install-existing com.miui.carlink
-pm install-existing com.miui.cit
-pm install-existing com.miui.cloudbackup
-pm install-existing com.miui.cloudservice
-pm install-existing com.miui.cloudservice.sysbase
-pm install-existing com.miui.compass
-pm install-existing com.miui.contentcatcher
-pm install-existing com.miui.daemon
-pm install-existing com.miui.huanji
-pm install-existing com.miui.hybrid
-pm install-existing com.miui.hybrid.accessory
-pm install-existing com.miui.maintenancemode
-pm install-existing com.miui.mediaeditor
-pm install-existing com.miui.mediaviewer
-pm install-existing com.miui.micloudsync
-pm install-existing com.miui.miservice
-pm install-existing com.miui.mishare.connectivity
-pm install-existing com.miui.misound
-pm install-existing com.miui.msa.global
-pm install-existing com.miui.nextpay
-pm install-existing com.miui.notes
-pm install-existing com.miui.personalassistant
-pm install-existing com.miui.phrase
-pm install-existing com.miui.player
-pm install-existing com.miui.smsextra
-pm install-existing com.miui.systemAdSolution
-pm install-existing com.miui.touchassistant
-pm install-existing com.miui.translation.kingsoft
-pm install-existing com.miui.translation.xmcloud
-pm install-existing com.miui.translation.youdao
-pm install-existing com.miui.translationservice
-pm install-existing com.miui.userguide
-pm install-existing com.miui.videoplayer
-pm install-existing com.miui.voiceassist
-pm install-existing com.miui.voiceassistoverlay
-pm install-existing com.miui.voicetrigger
-pm install-existing com.miui.vsimcore
-pm install-existing com.miui.weather2
-pm install-existing com.miui.wmsvc
-pm install-existing com.miui.yellowpage
-pm install-existing com.mobeam.barcodeService
-pm install-existing com.mobiletools.systemhelper
-pm install-existing com.monotype.android.font.chococooky
-pm install-existing com.monotype.android.font.cooljazz
-pm install-existing com.monotype.android.font.foundation
-pm install-existing com.monotype.android.font.rosemary
-pm install-existing com.mygalaxy
-pm install-existing com.netflix.mediaclient
-pm install-existing com.netflix.partner.activation
-pm install-existing com.nf.snake
-pm install-existing com.nuance.swype.input
-pm install-existing com.opera.browser
-pm install-existing com.opera.max.oem
-pm install-existing com.opera.preinstall
-pm install-existing com.osp.app.signin
-pm install-existing com.policydm
-pm install-existing com.qti.qcc
-pm install-existing com.qualcomm.uimremoteserver
-pm install-existing com.sec.android.AutoPreconfig
-pm install-existing com.sec.android.Preconfig
-pm install-existing com.sec.android.RilServiceModeApp
-pm install-existing com.sec.android.app.DataCreate
-pm install-existing com.sec.android.app.SecSetupWizard
-pm install-existing com.sec.android.app.SmartClipEdgeService
-pm install-existing com.sec.android.app.apex
-pm install-existing com.sec.android.app.applinker
-pm install-existing com.sec.android.app.billing
-pm install-existing com.sec.android.app.bluetoothtest
-pm install-existing com.sec.android.app.chromecustomizations
-pm install-existing com.sec.android.app.desktoplauncher
-pm install-existing com.sec.android.app.dexonpc
-pm install-existing com.sec.android.app.factorykeystring
-pm install-existing com.sec.android.app.gamehub
-pm install-existing com.sec.android.app.hwmoduletest
-pm install-existing com.sec.android.app.kidshome
-pm install-existing com.sec.android.app.magnifier
-pm install-existing com.sec.android.app.myfiles
-pm install-existing com.sec.android.app.ocr
-pm install-existing com.sec.android.app.parser
-pm install-existing com.sec.android.app.personalization
-pm install-existing com.sec.android.app.popupcalculator
-pm install-existing com.sec.android.app.quicktool
-pm install-existing com.sec.android.app.ringtoneBR
-pm install-existing com.sec.android.app.safetyassurance
-pm install-existing com.sec.android.app.sbrowser
-pm install-existing com.sec.android.app.servicemodeapp
-pm install-existing com.sec.android.app.shealth
-pm install-existing com.sec.android.app.soundalive
-pm install-existing com.sec.android.app.sysscope
-pm install-existing com.sec.android.app.tfunlock
-pm install-existing com.sec.android.app.tourviewer
-pm install-existing com.sec.android.app.translator
-pm install-existing com.sec.android.app.ve.vebgm
-pm install-existing com.sec.android.app.wfdbroker
-pm install-existing com.sec.android.app.withtv
-pm install-existing com.sec.android.app.wlantest
-pm install-existing com.sec.android.cover.ledcover
-pm install-existing com.sec.android.daemonapp
-pm install-existing com.sec.android.desktopmode.uiservice
-pm install-existing com.sec.android.diagmonagent
-pm install-existing com.sec.android.easyMover
-pm install-existing com.sec.android.easyMover.Agent
-pm install-existing com.sec.android.easyonehand
-pm install-existing com.sec.android.emergencylauncher
-pm install-existing com.sec.android.mimage.avatarstickers
-pm install-existing com.sec.android.mimage.gear360editor
-pm install-existing com.sec.android.mimage.photoretouching
-pm install-existing com.sec.android.ofviewer
-pm install-existing com.sec.android.omc
-pm install-existing com.sec.android.preloadinstaller
-pm install-existing com.sec.android.provider.snote
-pm install-existing com.sec.android.providers.security
-pm install-existing com.sec.android.providers.tasks
-pm install-existing com.sec.android.sdhms
-pm install-existing com.sec.android.service.health
-pm install-existing com.sec.android.sidesync30
-pm install-existing com.sec.android.splitsound
-pm install-existing com.sec.android.uibcvirtualsoftkey
-pm install-existing com.sec.android.widgetapp.diotek.smemo
-pm install-existing com.sec.android.widgetapp.easymodecontactswidget
-pm install-existing com.sec.app.TransmitPowerService
-pm install-existing com.sec.automation
-pm install-existing com.sec.bcservice
-pm install-existing com.sec.downloadablekeystore
-pm install-existing com.sec.enterprise.knox.attestation
-pm install-existing com.sec.enterprise.knox.cloudmdm.smdms
-pm install-existing com.sec.enterprise.mdm.services.simpin
-pm install-existing com.sec.enterprise.mdm.vpn
-pm install-existing com.sec.epdgtestapp
-pm install-existing com.sec.everglades
-pm install-existing com.sec.everglades.update
-pm install-existing com.sec.factory
-pm install-existing com.sec.factory.camera
-pm install-existing com.sec.factory.iris.usercamera
-pm install-existing com.sec.hearingadjust
-pm install-existing com.sec.kidsplat.installer
-pm install-existing com.sec.knox.foldercontainer
-pm install-existing com.sec.knox.knoxsetupwizardclient
-pm install-existing com.sec.knox.switcher
-pm install-existing com.sec.location.nsflp2
-pm install-existing com.sec.mldapchecker
-pm install-existing com.sec.modem.settings
-pm install-existing com.sec.providers.assisteddialing
-pm install-existing com.sec.readershub
-pm install-existing com.sec.smartcard.manager
-pm install-existing com.sec.spen.flashannotate
-pm install-existing com.sec.spp.push
-pm install-existing com.sec.sve
-pm install-existing com.sec.usbsettings
-pm install-existing com.sec.vowifispg
-pm install-existing com.sec.yosemite.phone
-pm install-existing com.sem.factoryapp
-pm install-existing com.singtel.mysingtel
-pm install-existing com.skms.android.agent
-pm install-existing com.skype.raider
-pm install-existing com.sohu.inputmethod.sogou.xiaomi
-pm install-existing com.spotify.music
-pm install-existing com.sukhavati.gotoplaying.bubble.BubbleShooter.mint
-pm install-existing com.tencent.soter.soterserver
-pm install-existing com.test.LTEfunctionality
-pm install-existing com.touchtype.swiftkey
-pm install-existing com.tripadvisor.tripadvisor
-pm install-existing com.trustonic.tuiservice
-pm install-existing com.unionpay.tsmservice.mi
-pm install-existing com.vlingo.midas
-pm install-existing com.wssnps
-pm install-existing com.xiaomi.ab
-pm install-existing com.xiaomi.aiasst.service
-pm install-existing com.xiaomi.aiasst.vision
-pm install-existing com.xiaomi.bluetooth
-pm install-existing com.xiaomi.calendar
-pm install-existing com.xiaomi.gamecenter.sdk.service
-pm install-existing com.xiaomi.glgm
-pm install-existing com.xiaomi.gnss.polaris
-pm install-existing com.xiaomi.joyose
-pm install-existing com.xiaomi.mi_connect_service
-pm install-existing com.xiaomi.micloud.sdk
-pm install-existing com.xiaomi.midrop
-pm install-existing com.xiaomi.migameservice
-pm install-existing com.xiaomi.mipicks
-pm install-existing com.xiaomi.miplay_client
-pm install-existing com.xiaomi.mircs
-pm install-existing com.xiaomi.mirecycle
-pm install-existing com.xiaomi.mirror
-pm install-existing com.xiaomi.payment
-pm install-existing com.xiaomi.powerchecker
-pm install-existing com.xiaomi.simactivate.service
-pm install-existing com.xiaomi.smarthome
-pm install-existing com.xiaomi.xmsf
-pm install-existing com.xiaomi.xmsfkeeper
-pm install-existing com.zhiliaoapp.musically
-pm install-existing org.mipay.android.manager
+cmd package install-existing cn.wps.xiaomi.abroad.lite
+cmd package install-existing com.alibaba.aliexpresshd
+cmd package install-existing com.amazon.appmanager
+cmd package install-existing com.amazon.fv
+cmd package install-existing com.amazon.kindle
+cmd package install-existing com.amazon.mShop.android
+cmd package install-existing com.amazon.mShop.android.shopping
+cmd package install-existing com.amazon.mp3
+cmd package install-existing com.amazon.venezia
+cmd package install-existing com.android.backupconfirm
+cmd package install-existing com.android.bips
+cmd package install-existing com.android.bookmarkprovider
+cmd package install-existing com.android.browser
+cmd package install-existing com.android.dreams.basic
+cmd package install-existing com.android.dreams.phototable
+cmd package install-existing com.android.egg
+cmd package install-existing com.android.email
+cmd package install-existing com.android.exchange
+cmd package install-existing com.android.hotwordenrollment.okgoogle
+cmd package install-existing com.android.packageinstaller
+cmd package install-existing com.android.printspooler
+cmd package install-existing com.android.providers.partnerbookmarks
+cmd package install-existing com.android.providers.userdictionary
+cmd package install-existing com.android.sharedstoragebackup
+cmd package install-existing com.android.stk
+cmd package install-existing com.android.wallpaper.livepicker
+cmd package install-existing com.android.wallpaperbackup
+cmd package install-existing com.android.wallpapercropper
+cmd package install-existing com.audible.application
+cmd package install-existing com.block.puzzle.game.hippo.mi
+cmd package install-existing com.blurb.checkout
+cmd package install-existing com.booking
+cmd package install-existing com.cequint.ecid
+cmd package install-existing com.cnn.mobile.android.phone.edgepanel
+cmd package install-existing com.crazy.juicer.xm
+cmd package install-existing com.diotek.sec.lookup.dictionary
+cmd package install-existing com.dsi.ant.plugins.antplus
+cmd package install-existing com.dsi.ant.sample.acquirechannels
+cmd package install-existing com.dsi.ant.server
+cmd package install-existing com.dsi.ant.service.socket
+cmd package install-existing com.duokan.phone.remotecontroller
+cmd package install-existing com.enhance.gameservice
+cmd package install-existing com.facebook.appmanager
+cmd package install-existing com.facebook.katana
+cmd package install-existing com.facebook.services
+cmd package install-existing com.facebook.system
+cmd package install-existing com.flipboard.app
+cmd package install-existing com.flipboard.boxer.app
+cmd package install-existing com.google.android.apps.books
+cmd package install-existing com.google.android.apps.docs
+cmd package install-existing com.google.android.apps.magazines
+cmd package install-existing com.google.android.apps.plus
+cmd package install-existing com.google.android.apps.subscriptions.red
+cmd package install-existing com.google.android.apps.tachyon
+cmd package install-existing com.google.android.apps.youtube.music
+cmd package install-existing com.google.android.gm
+cmd package install-existing com.google.android.googlequicksearchbox
+cmd package install-existing com.google.android.marvin.talkback
+cmd package install-existing com.google.android.music
+cmd package install-existing com.google.android.printservice.recommendation
+cmd package install-existing com.google.android.projection.gearhead
+cmd package install-existing com.google.android.talk
+cmd package install-existing com.google.android.tts
+cmd package install-existing com.google.android.videos
+cmd package install-existing com.google.android.youtube
+cmd package install-existing com.google.ar.core
+cmd package install-existing com.google.vr.vrcore
+cmd package install-existing com.gotv.nflgamecenter.us.lite
+cmd package install-existing com.hancom.office.editor.hidden
+cmd package install-existing com.imdb.mobile
+cmd package install-existing com.infraware.polarisoffice5
+cmd package install-existing com.jewelsblast.ivygames.Adventure.free
+cmd package install-existing com.linkedin.android
+cmd package install-existing com.logame.eliminateintruder3d
+cmd package install-existing com.mi.android.globalFileexplorer
+cmd package install-existing com.mi.android.globalpersonalassistant
+cmd package install-existing com.mi.global.pocobbs
+cmd package install-existing com.mi.global.pocostore
+cmd package install-existing com.mi.globalbrowser
+cmd package install-existing com.mi.globalminusscreen
+cmd package install-existing com.micredit.in
+cmd package install-existing com.microsoft.appmanager
+cmd package install-existing com.microsoft.office.excel
+cmd package install-existing com.microsoft.office.officehubrow
+cmd package install-existing com.microsoft.office.outlook
+cmd package install-existing com.microsoft.office.powerpoint
+cmd package install-existing com.microsoft.office.word
+cmd package install-existing com.microsoft.skydrive
+cmd package install-existing com.milink.service
+cmd package install-existing com.mintgames.triplecrush.tile.fun
+cmd package install-existing com.mintgames.wordtrip
+cmd package install-existing com.mipay.wallet.id
+cmd package install-existing com.mipay.wallet.in
+cmd package install-existing com.miui.analytics
+cmd package install-existing com.miui.android.fashiongallery
+cmd package install-existing com.miui.audioeffect
+cmd package install-existing com.miui.audiomonitor
+cmd package install-existing com.miui.bugreport
+cmd package install-existing com.miui.carlink
+cmd package install-existing com.miui.cit
+cmd package install-existing com.miui.cloudbackup
+cmd package install-existing com.miui.cloudservice
+cmd package install-existing com.miui.cloudservice.sysbase
+cmd package install-existing com.miui.compass
+cmd package install-existing com.miui.contentcatcher
+cmd package install-existing com.miui.daemon
+cmd package install-existing com.miui.huanji
+cmd package install-existing com.miui.hybrid
+cmd package install-existing com.miui.hybrid.accessory
+cmd package install-existing com.miui.maintenancemode
+cmd package install-existing com.miui.mediaeditor
+cmd package install-existing com.miui.mediaviewer
+cmd package install-existing com.miui.micloudsync
+cmd package install-existing com.miui.miservice
+cmd package install-existing com.miui.mishare.connectivity
+cmd package install-existing com.miui.misound
+cmd package install-existing com.miui.msa.global
+cmd package install-existing com.miui.nextpay
+cmd package install-existing com.miui.notes
+cmd package install-existing com.miui.personalassistant
+cmd package install-existing com.miui.phrase
+cmd package install-existing com.miui.player
+cmd package install-existing com.miui.smsextra
+cmd package install-existing com.miui.systemAdSolution
+cmd package install-existing com.miui.touchassistant
+cmd package install-existing com.miui.translation.kingsoft
+cmd package install-existing com.miui.translation.xmcloud
+cmd package install-existing com.miui.translation.youdao
+cmd package install-existing com.miui.translationservice
+cmd package install-existing com.miui.userguide
+cmd package install-existing com.miui.videoplayer
+cmd package install-existing com.miui.voiceassist
+cmd package install-existing com.miui.voiceassistoverlay
+cmd package install-existing com.miui.voicetrigger
+cmd package install-existing com.miui.vsimcore
+cmd package install-existing com.miui.weather2
+cmd package install-existing com.miui.wmsvc
+cmd package install-existing com.miui.yellowpage
+cmd package install-existing com.mobeam.barcodeService
+cmd package install-existing com.mobiletools.systemhelper
+cmd package install-existing com.monotype.android.font.chococooky
+cmd package install-existing com.monotype.android.font.cooljazz
+cmd package install-existing com.monotype.android.font.foundation
+cmd package install-existing com.monotype.android.font.rosemary
+cmd package install-existing com.mygalaxy
+cmd package install-existing com.netflix.mediaclient
+cmd package install-existing com.netflix.partner.activation
+cmd package install-existing com.nf.snake
+cmd package install-existing com.nuance.swype.input
+cmd package install-existing com.opera.browser
+cmd package install-existing com.opera.max.oem
+cmd package install-existing com.opera.preinstall
+cmd package install-existing com.osp.app.signin
+cmd package install-existing com.policydm
+cmd package install-existing com.qti.qcc
+cmd package install-existing com.qualcomm.uimremoteserver
+cmd package install-existing com.sec.android.AutoPreconfig
+cmd package install-existing com.sec.android.Preconfig
+cmd package install-existing com.sec.android.RilServiceModeApp
+cmd package install-existing com.sec.android.app.DataCreate
+cmd package install-existing com.sec.android.app.SecSetupWizard
+cmd package install-existing com.sec.android.app.SmartClipEdgeService
+cmd package install-existing com.sec.android.app.apex
+cmd package install-existing com.sec.android.app.applinker
+cmd package install-existing com.sec.android.app.billing
+cmd package install-existing com.sec.android.app.bluetoothtest
+cmd package install-existing com.sec.android.app.chromecustomizations
+cmd package install-existing com.sec.android.app.desktoplauncher
+cmd package install-existing com.sec.android.app.dexonpc
+cmd package install-existing com.sec.android.app.factorykeystring
+cmd package install-existing com.sec.android.app.gamehub
+cmd package install-existing com.sec.android.app.hwmoduletest
+cmd package install-existing com.sec.android.app.kidshome
+cmd package install-existing com.sec.android.app.magnifier
+cmd package install-existing com.sec.android.app.myfiles
+cmd package install-existing com.sec.android.app.ocr
+cmd package install-existing com.sec.android.app.parser
+cmd package install-existing com.sec.android.app.personalization
+cmd package install-existing com.sec.android.app.popupcalculator
+cmd package install-existing com.sec.android.app.quicktool
+cmd package install-existing com.sec.android.app.ringtoneBR
+cmd package install-existing com.sec.android.app.safetyassurance
+cmd package install-existing com.sec.android.app.sbrowser
+cmd package install-existing com.sec.android.app.servicemodeapp
+cmd package install-existing com.sec.android.app.shealth
+cmd package install-existing com.sec.android.app.soundalive
+cmd package install-existing com.sec.android.app.sysscope
+cmd package install-existing com.sec.android.app.tfunlock
+cmd package install-existing com.sec.android.app.tourviewer
+cmd package install-existing com.sec.android.app.translator
+cmd package install-existing com.sec.android.app.ve.vebgm
+cmd package install-existing com.sec.android.app.wfdbroker
+cmd package install-existing com.sec.android.app.withtv
+cmd package install-existing com.sec.android.app.wlantest
+cmd package install-existing com.sec.android.cover.ledcover
+cmd package install-existing com.sec.android.daemonapp
+cmd package install-existing com.sec.android.desktopmode.uiservice
+cmd package install-existing com.sec.android.diagmonagent
+cmd package install-existing com.sec.android.easyMover
+cmd package install-existing com.sec.android.easyMover.Agent
+cmd package install-existing com.sec.android.easyonehand
+cmd package install-existing com.sec.android.emergencylauncher
+cmd package install-existing com.sec.android.mimage.avatarstickers
+cmd package install-existing com.sec.android.mimage.gear360editor
+cmd package install-existing com.sec.android.mimage.photoretouching
+cmd package install-existing com.sec.android.ofviewer
+cmd package install-existing com.sec.android.omc
+cmd package install-existing com.sec.android.preloadinstaller
+cmd package install-existing com.sec.android.provider.snote
+cmd package install-existing com.sec.android.providers.security
+cmd package install-existing com.sec.android.providers.tasks
+cmd package install-existing com.sec.android.sdhms
+cmd package install-existing com.sec.android.service.health
+cmd package install-existing com.sec.android.sidesync30
+cmd package install-existing com.sec.android.splitsound
+cmd package install-existing com.sec.android.uibcvirtualsoftkey
+cmd package install-existing com.sec.android.widgetapp.diotek.smemo
+cmd package install-existing com.sec.android.widgetapp.easymodecontactswidget
+cmd package install-existing com.sec.app.TransmitPowerService
+cmd package install-existing com.sec.automation
+cmd package install-existing com.sec.bcservice
+cmd package install-existing com.sec.downloadablekeystore
+cmd package install-existing com.sec.enterprise.knox.attestation
+cmd package install-existing com.sec.enterprise.knox.cloudmdm.smdms
+cmd package install-existing com.sec.enterprise.mdm.services.simpin
+cmd package install-existing com.sec.enterprise.mdm.vpn
+cmd package install-existing com.sec.epdgtestapp
+cmd package install-existing com.sec.everglades
+cmd package install-existing com.sec.everglades.update
+cmd package install-existing com.sec.factory
+cmd package install-existing com.sec.factory.camera
+cmd package install-existing com.sec.factory.iris.usercamera
+cmd package install-existing com.sec.hearingadjust
+cmd package install-existing com.sec.kidsplat.installer
+cmd package install-existing com.sec.knox.foldercontainer
+cmd package install-existing com.sec.knox.knoxsetupwizardclient
+cmd package install-existing com.sec.knox.switcher
+cmd package install-existing com.sec.location.nsflp2
+cmd package install-existing com.sec.mldapchecker
+cmd package install-existing com.sec.modem.settings
+cmd package install-existing com.sec.providers.assisteddialing
+cmd package install-existing com.sec.readershub
+cmd package install-existing com.sec.smartcard.manager
+cmd package install-existing com.sec.spen.flashannotate
+cmd package install-existing com.sec.spp.push
+cmd package install-existing com.sec.sve
+cmd package install-existing com.sec.usbsettings
+cmd package install-existing com.sec.vowifispg
+cmd package install-existing com.sec.yosemite.phone
+cmd package install-existing com.sem.factoryapp
+cmd package install-existing com.singtel.mysingtel
+cmd package install-existing com.skms.android.agent
+cmd package install-existing com.skype.raider
+cmd package install-existing com.sohu.inputmethod.sogou.xiaomi
+cmd package install-existing com.spotify.music
+cmd package install-existing com.sukhavati.gotoplaying.bubble.BubbleShooter.mint
+cmd package install-existing com.tencent.soter.soterserver
+cmd package install-existing com.test.LTEfunctionality
+cmd package install-existing com.touchtype.swiftkey
+cmd package install-existing com.tripadvisor.tripadvisor
+cmd package install-existing com.trustonic.tuiservice
+cmd package install-existing com.unionpay.tsmservice.mi
+cmd package install-existing com.vlingo.midas
+cmd package install-existing com.wssnps
+cmd package install-existing com.xiaomi.ab
+cmd package install-existing com.xiaomi.aiasst.service
+cmd package install-existing com.xiaomi.aiasst.vision
+cmd package install-existing com.xiaomi.bluetooth
+cmd package install-existing com.xiaomi.calendar
+cmd package install-existing com.xiaomi.gamecenter.sdk.service
+cmd package install-existing com.xiaomi.glgm
+cmd package install-existing com.xiaomi.gnss.polaris
+cmd package install-existing com.xiaomi.joyose
+cmd package install-existing com.xiaomi.mi_connect_service
+cmd package install-existing com.xiaomi.micloud.sdk
+cmd package install-existing com.xiaomi.midrop
+cmd package install-existing com.xiaomi.migameservice
+cmd package install-existing com.xiaomi.mipicks
+cmd package install-existing com.xiaomi.miplay_client
+cmd package install-existing com.xiaomi.mircs
+cmd package install-existing com.xiaomi.mirecycle
+cmd package install-existing com.xiaomi.mirror
+cmd package install-existing com.xiaomi.payment
+cmd package install-existing com.xiaomi.powerchecker
+cmd package install-existing com.xiaomi.simactivate.service
+cmd package install-existing com.xiaomi.smarthome
+cmd package install-existing com.xiaomi.xmsf
+cmd package install-existing com.xiaomi.xmsfkeeper
+cmd package install-existing com.zhiliaoapp.musically
+cmd package install-existing org.mipay.android.manager
 } > /dev/null 2>&1
 debloat
 echo "Restore Debloat HyperOs Success!!!"
