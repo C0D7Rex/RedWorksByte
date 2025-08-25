@@ -2750,5 +2750,13 @@
   "android_version": "12",
   "manufacturer": "samsung",
   "price": "20"
+  },
+  {
+  "key": "minhhainodz",
+  "android_id": "9b870be8dabdbc8a",
+  "serial": "7e0d62f",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "90"
   }
 ]
