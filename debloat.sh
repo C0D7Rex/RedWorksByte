@@ -1,4 +1,3 @@
-debloat() {
 pm uninstall --user 0 cn.wps.xiaomi.abroad.lite
 pm uninstall --user 0 com.alibaba.aliexpresshd
 pm uninstall --user 0 com.amazon.appmanager
@@ -289,6 +288,4 @@ pm uninstall --user 0 com.xiaomi.xmsf
 pm uninstall --user 0 com.xiaomi.xmsfkeeper
 pm uninstall --user 0 com.zhiliaoapp.musically
 pm uninstall --user 0 org.mipay.android.manager
-}
-debloat
 echo " Debloat HyperOs Success!!!"

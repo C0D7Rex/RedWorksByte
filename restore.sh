@@ -1,4 +1,3 @@
-debloat() {
 cmd package install-existing cn.wps.xiaomi.abroad.lite
 cmd package install-existing com.alibaba.aliexpresshd
 cmd package install-existing com.amazon.appmanager
@@ -289,6 +288,4 @@ cmd package install-existing com.xiaomi.xmsf
 cmd package install-existing com.xiaomi.xmsfkeeper
 cmd package install-existing com.zhiliaoapp.musically
 cmd package install-existing org.mipay.android.manager
-} > /dev/null 2>&1
-debloat
 echo "Restore Debloat HyperOs Success!!!"
