@@ -2477,7 +2477,7 @@
   "serial": "4258a0d0",
   "android_version": "15",
   "manufacturer": "Xiaomi",
-  "price": "70"
+  "price": "140"
   },
   {
   "key": "chaigay",
@@ -2742,5 +2742,13 @@
   "android_version": "12",
   "manufacturer": "samsung",
   "price": "70"
+  },
+  {
+  "key": "cuonggamer",
+  "android_id": "23cc7751044432b2",
+  "serial": "R9JR30GC4PJ",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "20"
   }
 ]
