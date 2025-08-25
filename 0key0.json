@@ -2718,5 +2718,13 @@
   "android_version": "15",
   "manufacturer": "samsung",
   "price": "20"
+  },
+  {
+  "key": "ngohoangphuc",
+  "android_id": "6133f9abecbc30e5",
+  "serial": "0N14723I21101D22",
+  "android_version": "13",
+  "manufacturer": "realme",
+  "price": "20"
   }
 ]
