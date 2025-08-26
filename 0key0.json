@@ -2790,5 +2790,13 @@
   "android_version": "15",
   "manufacturer": "samsung",
   "price": "20"
+  },
+  {
+  "key": "hoaiphonggay",
+  "android_id": "9d1d0c2915ec86e7",
+  "serial": "BKB00052945",
+  "android_version": "11",
+  "manufacturer": "vsmart",
+  "price": "70"
   }
 ]
