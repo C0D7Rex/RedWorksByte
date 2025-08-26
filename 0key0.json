@@ -2758,5 +2758,13 @@
   "android_version": "15",
   "manufacturer": "OPPO",
   "price": "90"
+  },
+  {
+  "key": "anhkhoigaycube",
+  "android_id": "5a854bdf85fded55",
+  "serial": "106303741Q001561",
+  "android_version": "14",
+  "manufacturer": "TECNO",
+  "price": "20"
   }
 ]
