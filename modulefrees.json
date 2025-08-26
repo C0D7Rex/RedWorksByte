@@ -13,15 +13,5 @@
     "name": "ModuleXPlus",
     "version": "5KFollow",
     "raw": "https://raw.githubusercontent.com/C0D7Rex/RedWorksByte/refs/heads/main/ModuleXPlus"
-  },
-  {
-    "name": "DebloatHyperOs",
-    "version": "Free",
-    "raw": "https://raw.githubusercontent.com/C0D7Rex/RedWorksByte/refs/heads/main/debloat.sh"
-  },
-  {
-    "name": "RestoreHyperOs",
-    "version": "Free",
-    "raw": "https://raw.githubusercontent.com/C0D7Rex/RedWorksByte/refs/heads/main/restore.sh"
   }
 ]
