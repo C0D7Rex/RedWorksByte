@@ -2766,5 +2766,21 @@
   "android_version": "14",
   "manufacturer": "TECNO",
   "price": "20"
+  },
+  {
+  "key": "haminhgaydz",
+  "android_id": "4c18424c747490c8",
+  "serial": "90559d30",
+  "android_version": "11",
+  "manufacturer": "OPPO",
+  "price": "280"
+  },
+  {
+  "key": "kienquocgaydz",
+  "android_id": "4bc7ce45bc08db94",
+  "serial": "1f51bfb9",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "70"
   }
 ]
