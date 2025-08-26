@@ -2782,5 +2782,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "70"
+  },
+  {
+  "key": "tranvancung",
+  "android_id": "b3e65a63523a69dd",
+  "serial": "R5CT82JG2FD",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "20"
   }
 ]
