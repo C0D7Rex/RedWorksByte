@@ -2798,5 +2798,13 @@
   "android_version": "11",
   "manufacturer": "vsmart",
   "price": "70"
+  },
+  {
+  "key": "phatgayngu",
+  "android_id": "cf20b59cad542dde",
+  "serial": "RF8Y108TF0L",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "20"
   }
 ]
