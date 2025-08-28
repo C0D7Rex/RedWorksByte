@@ -2830,5 +2830,13 @@
   "android_version": "14",
   "manufacturer": "OPPO",
   "price": "70"
+  },
+  {
+  "key": "minhnhanle",
+  "android_id": "69072c4287f2db22",
+  "serial": "R58RA3PQ3HH",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "140"
   }
 ]
