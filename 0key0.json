@@ -2822,5 +2822,13 @@
   "android_version": "13",
   "manufacturer": "Xiaomi",
   "price": "140"
+  },
+  {
+  "key": "thaiduongay",
+  "android_id": "ab734baa722a5a16",
+  "serial": "7a31aaf",
+  "android_version": "14",
+  "manufacturer": "OPPO",
+  "price": "70"
   }
 ]
