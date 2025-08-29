@@ -2838,5 +2838,21 @@
   "android_version": "13",
   "manufacturer": "samsung",
   "price": "140"
+  },
+  {
+  "key": "tranvandoi",
+  "android_id": "298766551876c03b",
+  "serial": "RF8WC00FZRY",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "140"
+  },
+  {
+  "key": "hoangkhanggaysexx",
+  "android_id": "224ab1a1f958530c",
+  "serial": "10HC8R0A1F00069",
+  "android_version": "12",
+  "manufacturer": "vivo",
+  "price": "210"
   }
 ]
