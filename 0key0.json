@@ -2854,5 +2854,21 @@
   "android_version": "12",
   "manufacturer": "vivo",
   "price": "210"
+  },
+  {
+  "key": "trungkiengaydz",
+  "android_id": "af6404bb52c9cafa",
+  "serial": "10HCCH011G000HS",
+  "android_version": "12",
+  "manufacturer": "vivo",
+  "price": "70"
+  },
+  {
+  "key": "quangbiscam1m4",
+  "android_id": "b3eb0b2373ab7db0",
+  "serial": "fa9e9316",
+  "android_version": "12",
+  "manufacturer": "Xiaomi",
+  "price": "210"
   }
 ]
