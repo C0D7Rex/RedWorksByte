@@ -2870,5 +2870,13 @@
   "android_version": "12",
   "manufacturer": "Xiaomi",
   "price": "210"
+  },
+  {
+  "key": "voxuandatgay",
+  "android_id": "8d7c2f27eaf740b8",
+  "serial": "R5CY342VANN",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "20"
   }
 ]
