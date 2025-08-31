@@ -2845,7 +2845,7 @@
   "serial": "RF8WC00FZRY",
   "android_version": "14",
   "manufacturer": "samsung",
-  "price": "140"
+  "price": "210"
   },
   {
   "key": "hoangkhanggaysexx",
@@ -2886,5 +2886,13 @@
   "android_version": "13",
   "manufacturer": "Xiaomi",
   "price": "280"
+  },
+  {
+  "key": "vutiendunggay",
+  "android_id": "745900d8f200462b",
+  "serial": "427b3303",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "70"
   }
 ]
