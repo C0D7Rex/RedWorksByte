@@ -2918,5 +2918,13 @@
   "android_version": "14",
   "manufacturer": "vivo",
   "price": "140"
+  },
+  {
+  "key": "legiabaogaycube",
+  "android_id": "a61268ed0c814c0d",
+  "serial": "62f66261",
+  "android_version": "14",
+  "manufacturer": "Xiaomi",
+  "price": "70"
   }
 ]
