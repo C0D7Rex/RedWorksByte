@@ -2926,5 +2926,13 @@
   "android_version": "14",
   "manufacturer": "Xiaomi",
   "price": "70"
+  },
+  {
+  "key": "nguyenduygay",
+  "android_id": "a207b147adcd5fdc",
+  "serial": "4X9LWSGYUOUOAUKZ",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "140"
   }
 ]
