@@ -2934,5 +2934,13 @@
   "android_version": "13",
   "manufacturer": "Xiaomi",
   "price": "140"
+  },
+  {
+  "key": "nguyenthecuc",
+  "android_id": "987295a369d698c",
+  "serial": "R9JR30GC4PJ",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "280"
   }
 ]
