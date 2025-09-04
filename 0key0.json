@@ -2950,5 +2950,13 @@
   "android_version": "13",
   "manufacturer": "Xiaomi",
   "price": "70"
+  },
+  {
+  "key": "legiabaodzcuto",
+  "android_id": "c75a7215e9f3a981",
+  "serial": "ROSO85CIL7C6AAPV",
+  "android_version": "13",
+  "manufacturer": "OPPO",
+  "price": "280"
   }
 ]
