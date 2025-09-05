@@ -2958,5 +2958,13 @@
   "android_version": "13",
   "manufacturer": "OPPO",
   "price": "280"
+  },
+  {
+  "key": "vulevansang",
+  "android_id": "b95f52cd59a4c552",
+  "serial": "R7AWA039GCT",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "70"
   }
 ]
