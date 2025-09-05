@@ -2966,5 +2966,13 @@
   "android_version": "15",
   "manufacturer": "samsung",
   "price": "70"
+  },
+  {
+  "key": "tronghieugayngu",
+  "android_id": "272e8049eacf91c7",
+  "serial": "R58R81NFYLM",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "70"
   }
 ]
