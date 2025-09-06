@@ -2974,5 +2974,13 @@
   "android_version": "12",
   "manufacturer": "samsung",
   "price": "70"
+  },
+  {
+  "key": "letandatgay",
+  "android_id": "2416688e9430f2c4",
+  "serial": "R7AIOC342556GVE",
+  "android_version": "14",
+  "manufacturer": "asus",
+  "price": "210"
   }
 ]
