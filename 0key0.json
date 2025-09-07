@@ -3014,5 +3014,13 @@
   "android_version": "12",
   "manufacturer": "Xiaomi",
   "price": "140"
+  },
+  {
+  "key": "phatgayngucak",
+  "android_id": "78ba9346b4416ec1",
+  "serial": "fe1aad4d",
+  "android_version": "12",
+  "manufacturer": "Xiaomi",
+  "price": "20"
   }
 ]
