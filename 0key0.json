@@ -3022,5 +3022,21 @@
   "android_version": "12",
   "manufacturer": "Xiaomi",
   "price": "20"
+  },
+  {
+  "key": "doansangdz",
+  "android_id": "118e665e05225028",
+  "serial": "MB7DSGJJO77DZTHI",
+  "android_version": "12",
+  "manufacturer": "OPPO",
+  "price": "140"
+  },
+  {
+  "key": "tvdgay",
+  "android_id": "298766551876c03b",
+  "serial": "RF8WC00FZRY",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "210"
   }
 ]
