@@ -3038,5 +3038,29 @@
   "android_version": "14",
   "manufacturer": "samsung",
   "price": "280"
+  },
+  {
+  "key": "ltlgay",
+  "android_id": "1234567890",
+  "serial": "e7ba6e24",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
+  {
+  "key": "nvqgay",
+  "android_id": "52f890f423853339",
+  "serial": "LNGE9LEEEYQCR4HU",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "210"
+  },
+  {
+  "key": "tbkngu",
+  "android_id": "fce63d470a6f11a2",
+  "serial": "da8c4d65",
+  "android_version": "14",
+  "manufacturer": "Xiaomi",
+  "price": "140"
   }
 ]
