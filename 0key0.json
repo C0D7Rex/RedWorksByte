@@ -3086,5 +3086,13 @@
   "android_version": "13",
   "manufacturer": "realme",
   "price": "20"
+  },
+  {
+  "key": "thienphugayocdog",
+  "android_id": "8ddbb6ba6fdb2837",
+  "serial": "R5CRB0XDSRY",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "210"
   }
 ]
