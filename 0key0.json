@@ -3078,5 +3078,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "210"
+  },
+  {
+  "key": "trannhatanhgaydzcube",
+  "android_id": "1234567890",
+  "serial": "0I52115S28100511",
+  "android_version": "13",
+  "manufacturer": "realme",
+  "price": "20"
   }
 ]
