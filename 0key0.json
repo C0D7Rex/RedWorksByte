@@ -3063,4 +3063,12 @@
   "manufacturer": "Xiaomi",
   "price": "210"
   },
+  {
+  "key": "qdzboiz",
+  "android_id": "1234567890",
+  "serial": "RSZSOFA6YTS4SGFA",
+  "android_version": "11",
+  "manufacturer": "OPPO",
+  "price": "140"
+  }
 ]
