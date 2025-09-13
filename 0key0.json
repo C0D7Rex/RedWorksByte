@@ -3094,5 +3094,13 @@
   "android_version": "14",
   "manufacturer": "samsung",
   "price": "210"
+  },
+  {
+  "key": "thngu",
+  "android_id": "98f5a194ca09a735",
+  "serial": "DQ85MVXGTORGYHQK",
+  "android_version": "13",
+  "manufacturer": "OPPO",
+  "price": "140"
   }
 ]
