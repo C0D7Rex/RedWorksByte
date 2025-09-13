@@ -3102,5 +3102,13 @@
   "android_version": "13",
   "manufacturer": "OPPO",
   "price": "140"
+  },
+  {
+  "key": "baotrangay",
+  "android_id": "2714f8c3352564ae",
+  "serial": "R3CN90KQ52K",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "20"
   }
 ]
