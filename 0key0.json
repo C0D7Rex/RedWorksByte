@@ -3110,5 +3110,13 @@
   "android_version": "13",
   "manufacturer": "samsung",
   "price": "20"
+  },
+  {
+  "key": "datgayngucube",
+  "android_id": "1234567890",
+  "serial": "10e6409e",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "70"
   }
 ]
