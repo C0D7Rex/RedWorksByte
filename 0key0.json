@@ -3142,5 +3142,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "20"
+  },
+  {
+  "key": "phantandungdz2",
+  "android_id": "d2e31fe8cc5bd1ba",
+  "serial": "mrqgaihiiz6pcelr",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "280"
   }
 ]
