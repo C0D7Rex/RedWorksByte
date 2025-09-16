@@ -3206,5 +3206,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "210"
+  },
+  {
+  "key": "ngockhuongcte",
+  "android_id": "c7cb111c4f8e0075",
+  "serial": "RFCY70187YN",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "140"
   }
 ]
