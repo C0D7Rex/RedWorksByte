@@ -3182,5 +3182,21 @@
   "android_version": "13",
   "manufacturer": "Xiaomi",
   "price": "210"
+  },
+  {
+  "key": "ngockhiemdzcb",
+  "android_id": "de40679620e518c9",
+  "serial": "87951191",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "70"
+  },
+  {
+  "key": "pbaolongdz",
+  "android_id": "118e665e05225028",
+  "serial": "MB7DSGJJO77DZTHI",
+  "android_version": "12",
+  "manufacturer": "OPPO",
+  "price": "280"
   }
 ]
