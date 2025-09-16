@@ -3198,5 +3198,13 @@
   "android_version": "12",
   "manufacturer": "OPPO",
   "price": "280"
+  },
+  {
+  "key": "slgaycube",
+  "android_id": "a7e6a81a7328b04",
+  "serial": "ibfyxwmb79eyj7lr",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "210"
   }
 ]
