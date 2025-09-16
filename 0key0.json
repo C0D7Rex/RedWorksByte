@@ -3150,5 +3150,37 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "280"
+  },
+  {
+  "key": "vanphucdzchb",
+  "android_id": "babab7597bd101ff",
+  "serial": "x4p7m7i7lbs4ljce",
+  "android_version": "14",
+  "manufacturer": "Xiaomi",
+  "price": "210"
+  },
+  {
+  "key": "trggaybede",
+  "android_id": "dda1e6c460f2237",
+  "serial": "jnuocmwg9hq4dip7",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "140"
+  },
+  {
+  "key": "nhatanhdzcube",
+  "android_id": "92557b3afece809c",
+  "serial": "RF8R90NZ08H",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "140"
+  },
+  {
+  "key": "tnvngubiscamm4",
+  "android_id": "78bfedad8b6151e4",
+  "serial": "LNGE9LEEEYQCR4HU",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "210"
   }
 ]
