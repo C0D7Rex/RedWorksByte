@@ -3230,5 +3230,13 @@
   "android_version": "11",
   "manufacturer": "vivo",
   "price": "140"
+  },
+  {
+  "key": "tranhaiduonggcb",
+  "android_id": "771523352294d850",
+  "serial": "HM5PAUWSSOK7ORBQ",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "140"
   }
 ]
