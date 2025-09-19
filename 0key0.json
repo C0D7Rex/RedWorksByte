@@ -3246,5 +3246,13 @@
   "android_version": "15",
   "manufacturer": "OPPO",
   "price": "140"
+  },
+  {
+  "key": "thgcb",
+  "android_id": "97ac700a75352549",
+  "serial": "R58RB2BAJVY",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "140"
   }
 ]
