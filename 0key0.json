@@ -3270,5 +3270,21 @@
   "android_version": "13",
   "manufacturer": "samsung",
   "price": "210"
+  },
+  {
+  "key": "tgttg",
+  "android_id": "8dd89d9c18c338fb",
+  "serial": "949d2edd",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "70"
+  },
+  {
+  "key": "tvdgcb",
+  "android_id": "91f6b42049dad04e",
+  "serial": "RF8WC00FZRY",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "280"
   }
 ]
