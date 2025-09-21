@@ -3294,5 +3294,13 @@
   "android_version": "15",
   "manufacturer": "realme",
   "price": "280"
+  },
+  {
+  "key": "levuonggcb",
+  "android_id": "6f76ff5ca492ec36",
+  "serial": "R9WWA0GFP2Z",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "20"
   }
 ]
