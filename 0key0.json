@@ -3286,5 +3286,13 @@
   "android_version": "14",
   "manufacturer": "samsung",
   "price": "280"
+  },
+  {
+  "key": "zewgcb",
+  "android_id": "616c554559a32db8",
+  "serial": "0B53807I311008E6",
+  "android_version": "15",
+  "manufacturer": "realme",
+  "price": "280"
   }
 ]
