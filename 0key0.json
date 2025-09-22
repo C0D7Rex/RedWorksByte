@@ -3310,5 +3310,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "140"
+  },
+  {
+  "key": "gcbh",
+  "android_id": "3d1804d0614d782d",
+  "serial": "8DA6SSRSJJ5HTOL7",
+  "android_version": "13",
+  "manufacturer": "OPPO",
+  "price": "20"
   }
 ]
