@@ -3302,5 +3302,13 @@
   "android_version": "15",
   "manufacturer": "samsung",
   "price": "20"
+  },
+  {
+  "key": "thnguyendzg",
+  "android_id": "41994c8fe47f4ef8",
+  "serial": "c4a8cfa4",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "140"
   }
 ]
