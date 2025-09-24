@@ -3358,5 +3358,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "70"
+  },
+  {
+  "key": "qqquan",
+  "android_id": "dc808362a3dec4c0",
+  "serial": "10ACAD060F0016T",
+  "android_version": "14",
+  "manufacturer": "vivo",
+  "price": "70"
   }
 ]
