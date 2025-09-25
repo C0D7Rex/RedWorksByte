@@ -3366,5 +3366,21 @@
   "android_version": "14",
   "manufacturer": "vivo",
   "price": "70"
+  },
+  {
+  "key": "legbc",
+  "android_id": "6b7a9730a8116791",
+  "serial": "bafyf659ifk7zxcu",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "140"
+  },
+  {
+  "key": "duchieungucc",
+  "android_id": "1234567890",
+  "serial": "2122592332037ece",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "140"
   }
 ]
