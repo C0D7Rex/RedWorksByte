@@ -3382,5 +3382,21 @@
   "android_version": "14",
   "manufacturer": "samsung",
   "price": "140"
+  },
+  {
+  "key": "phamtancl",
+  "android_id": "34b1dfe3a414f683",
+  "serial": "5DX45PCEZLWCN7JR",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "140"
+  },
+  {
+  "key": "tchunghh",
+  "android_id": "52d3aaccdd70e1cf",
+  "serial": "10CF6S1MXL0049L",
+  "android_version": "15",
+  "manufacturer": "vivo",
+  "price": "70"
   }
 ]
