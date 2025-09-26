@@ -3414,5 +3414,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "280"
+  },
+  {
+  "key": "thanhvinhgayngucc",
+  "android_id": "87a4435e9f09a6c4",
+  "serial": "a23f122",
+  "android_version": "13",
+  "manufacturer": "OPPO",
+  "price": "20"
   }
 ]
