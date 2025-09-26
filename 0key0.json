@@ -3422,5 +3422,13 @@
   "android_version": "13",
   "manufacturer": "OPPO",
   "price": "20"
+  },
+  {
+  "key": "phongphongdzcte",
+  "android_id": "4a3e322f0d48433c",
+  "serial": "1b612be06a0d7ece",
+  "android_version": "10",
+  "manufacturer": "samsung",
+  "price": "280"
   }
 ]
