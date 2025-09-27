@@ -3438,5 +3438,13 @@
   "android_version": "12",
   "manufacturer": "samsung",
   "price": "140"
+  },
+  {
+  "key": "trunghieugiare20",
+  "android_id": "e26f283a3b89978b",
+  "serial": "00233c550406",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "20"
   }
 ]
