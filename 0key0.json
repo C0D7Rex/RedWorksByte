@@ -3478,5 +3478,13 @@
   "android_version": "12",
   "manufacturer": "samsung",
   "price": "140"
+  },
+  {
+  "key": "legiabakgcbhh",
+  "android_id": "6b7a9730a8116791",
+  "serial": "bafyf659ifk7zxcu",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "210"
   }
 ]
