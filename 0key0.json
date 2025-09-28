@@ -3470,5 +3470,13 @@
   "android_version": "11",
   "manufacturer": "OPPO",
   "price": "20"
+  },
+  {
+  "key": "dubaominhquy",
+  "android_id": "f2abe50d4833d69c",
+  "serial": "RF8NA21S2HM",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "140"
   }
 ]
