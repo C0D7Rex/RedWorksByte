@@ -3486,5 +3486,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "210"
+  },
+  {
+  "key": "tlthanhloidz",
+  "android_id": "b4ede9486d4f1622",
+  "serial": "R58T41JWSXY",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "280"
   }
 ]
