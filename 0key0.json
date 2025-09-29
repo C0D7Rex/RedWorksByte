@@ -3526,5 +3526,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "70"
+  },
+  {
+  "key": "ngtangchivi",
+  "android_id": "cf885d12ceb332fa",
+  "serial": "431QHFGP2233M",
+  "android_version": "14",
+  "manufacturer": "meizu",
+  "price": "140"
   }
 ]
