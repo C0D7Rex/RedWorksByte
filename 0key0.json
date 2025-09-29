@@ -3518,5 +3518,13 @@
   "android_version": "12",
   "manufacturer": "samsung",
   "price": "280"
+  },
+  {
+  "key": "khoianngucc",
+  "android_id": "293f7c16e1b63a6f",
+  "serial": "2efba1",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "70"
   }
 ]
