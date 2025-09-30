@@ -3542,5 +3542,13 @@
   "android_version": "13",
   "manufacturer": "samsung",
   "price": "280"
+  },
+  {
+  "key": "hungfefe",
+  "android_id": "cda0f50c3fb62f4f",
+  "serial": "R59TA01ADCJ",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "140"
   }
 ]
