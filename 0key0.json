@@ -3534,5 +3534,13 @@
   "android_version": "14",
   "manufacturer": "meizu",
   "price": "140"
+  },
+  {
+  "key": "nhatanhdzaicubecc",
+  "android_id": "92557b3afece809c",
+  "serial": "RF8R90NZ08H",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "280"
   }
 ]
