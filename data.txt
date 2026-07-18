@@ -67,3 +67,6 @@ R58R81H5SGA:120
 
 #minhtruong
 RFCY40N7VLF:120
+
+#minhthanh
+tc4hzhb67dwocitc:120
