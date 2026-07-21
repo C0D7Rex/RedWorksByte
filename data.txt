@@ -69,3 +69,6 @@ tc4hzhb67dwocitc:120
 
 #caophong-ctv
 PFU8V8BEBYB6TK7H:10000000
+
+#kha
+R58W40TESHD:50
