@@ -88,3 +88,6 @@ d51018ca:70
 
 #kha
 R58W40TESHD:120
+
+#phuduc
+R58RB41SZAX:70
