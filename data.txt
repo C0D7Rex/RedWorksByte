@@ -88,3 +88,6 @@ d51018ca:70
 
 #kha
 R58W40TESHD:120
+
+#pphuduc
+R94Y60CW5FJ:70
