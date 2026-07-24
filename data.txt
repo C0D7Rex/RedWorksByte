@@ -61,8 +61,6 @@ R58R81H5SGA:120
 #Hoangminh
 00744740064a0497:120
 
-#minhtruong
-RFCY40N7VLF:120
 
 #minhthanh
 tc4hzhb67dwocitc:120
